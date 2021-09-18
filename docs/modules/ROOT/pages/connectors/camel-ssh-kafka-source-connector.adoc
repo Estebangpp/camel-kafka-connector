@@ -91,22 +91,11 @@ The camel-ssh source connector has no converters out of the box.
 
 
 
-The camel-ssh source connector supports 1 transforms out of the box, which are listed below.
+The camel-ssh source connector has no transforms out of the box.
 
 
-
-[source,java]
-----
-
-org.apache.camel.kafkaconnector.ssh.transformers.SshTransforms
-
-----
 
 
 
 The camel-ssh source connector has no aggregation strategies out of the box.
-
-
-
-
 // kafka-connector options: END

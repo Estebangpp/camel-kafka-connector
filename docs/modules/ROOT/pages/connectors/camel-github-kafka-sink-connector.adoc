@@ -52,22 +52,11 @@ The camel-github sink connector has no converters out of the box.
 
 
 
-The camel-github sink connector supports 1 transforms out of the box, which are listed below.
+The camel-github sink connector has no transforms out of the box.
 
 
-
-[source,java]
-----
-
-org.apache.camel.kafkaconnector.github.transformers.EventTypeTransforms
-
-----
 
 
 
 The camel-github sink connector has no aggregation strategies out of the box.
-
-
-
-
 // kafka-connector options: END
